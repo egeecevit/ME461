@@ -1,0 +1,37 @@
+use socket programming to comminucate with another user/computer
+doc ros beginner tutorial
+check OOP
+---------------
+first socket programming with python
+next week assignment: ping pong game
+simple graphical part
+involve camera at the final product do it with arrow keys first
+show how you comminucate
+what is and what kind of data you are sharing
+at least multiple sockets used(multiple ports) for each module
+
+----------------------------------------------------------------------------
+scp used to connect to a remote machine and copy a file
+__name__ = "__main__" means my code can be executed from terminal but cannot be imported
+
+check ooPython.ipynb colab research group link
+
+__ (dunder) containing methods are hiden
+
+from importlib import reload use it to reload modules put it in py.config file
+
+how does a child calls a parent function
+
+-----------------------------------------------------------------------------
+SPI ---> serial peripheral ---> displaying data
+check out Thonny
+create virtualenv and install Thonny
+
+
+ls /dev/ttyA* to find which port pi pico connected
+screen /dev/ttyACM0 115200 to connect
+
+python-tk must be installed for thonny
+
+
+
